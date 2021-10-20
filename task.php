@@ -69,7 +69,7 @@ print("#####q6#####".PHP_EOL);
 $numbers1 = [1, 2, 3, 4, 5];
 
 // 以下に回答を記載
-//$numbers2 = [10, 10, 10, 10, 10];    //答えにたどり着けなかった。※復習必要
+//$numbers2 = [10, 10, 10, 10, 10];     //答えにたどり着けなかった。※復習必要
 //$number = array_merge($number1 * $number2);
 //print_r($number);
 
